@@ -1,0 +1,9 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build and binary files
+*.exe
+*.out
+*.o
+*.obj
+*.json
